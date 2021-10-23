@@ -8,4 +8,4 @@ if(b==0):
 	print("Error")
 else:
 	y = sqrt(x-b)/(2*b)-tan(x)/pow(b,2)
-	print(yb)
+	print(y)
